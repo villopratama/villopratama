@@ -10,13 +10,13 @@
 <a href="#"><img title="VILLO" src="https://img.shields.io/badge/RAMLAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Ramlan666"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RAMLAN-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/villopratama"><img title="Author" src="https://img.shields.io/badge/AUTHOR-villopratama-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Ramlan666/sadbotv2/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ramlan666?color=blue&style=flat-square"></a>
-<a href="https://github.com/Ramlan666/sadbotv2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ramlan666/sadbotv2color=red&style=flat-square"></a>
-<a href="https://github.com/Ramlan666/sadbotv2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ramlan666/sadbotv2?color=red&style=flat-square"></a>
-<a href="https://github.com/Ramlan666/sadbotv2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ramlan666/sadbotv2?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/villopratama/villopratama/followers"><img title="Followers" src="https://img.shields.io/github/followers/villopratama?color=blue&style=flat-square"></a>
+<a href="https://github.com/villopratama/villopratama/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/villopratama/villopratamacolor=red&style=flat-square"></a>
+<a href="https://github.com/villopratama/villopratama/network/members"><img title="Forks" src="https://img.shields.io/github/forks/villopratama/villopratama/villopratama?color=red&style=flat-square"></a>
+<a href="https://github.com/villopratama/villopratama/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/villopratama/villopratama?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRamlan666%2Fsadbotv2&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
@@ -25,7 +25,7 @@
  
 </details>
 
-### 𝐓𝐡𝐚𝐧𝐤𝐬 𝐓𝐨 𝑵𝑨𝑫𝑰𝑨 😍
+### 𝐓𝐡𝐚𝐧𝐤𝐬 𝐓𝐨 V̕͡͏I̕L̢͟LÒ̀͜P̸R͢A̷̶͜T͢A̢̧M̸͘̕Ą͏
 
 ### WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
@@ -51,8 +51,8 @@ Script ini di modifikasi sama saya sendiri Ramlan.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/Ramlan666/sadbotv2
-> cd sadbotv2
+> git clone https://github.com/villopratama/villopratama
+> cd villopratama
 > bash install.sh
 > npm start
 > Tinggal scan kode qr yeee...done
